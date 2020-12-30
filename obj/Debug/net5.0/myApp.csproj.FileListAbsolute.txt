@@ -1,0 +1,15 @@
+/Users/nakarai/Desktop/myApp/bin/Debug/net5.0/myApp.deps.json
+/Users/nakarai/Desktop/myApp/bin/Debug/net5.0/myApp.runtimeconfig.json
+/Users/nakarai/Desktop/myApp/bin/Debug/net5.0/myApp.runtimeconfig.dev.json
+/Users/nakarai/Desktop/myApp/bin/Debug/net5.0/myApp.dll
+/Users/nakarai/Desktop/myApp/bin/Debug/net5.0/ref/myApp.dll
+/Users/nakarai/Desktop/myApp/bin/Debug/net5.0/myApp.pdb
+/Users/nakarai/Desktop/myApp/obj/Debug/net5.0/myApp.csprojAssemblyReference.cache
+/Users/nakarai/Desktop/myApp/obj/Debug/net5.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakarai/Desktop/myApp/obj/Debug/net5.0/myApp.AssemblyInfoInputs.cache
+/Users/nakarai/Desktop/myApp/obj/Debug/net5.0/myApp.AssemblyInfo.cs
+/Users/nakarai/Desktop/myApp/obj/Debug/net5.0/myApp.csproj.CoreCompileInputs.cache
+/Users/nakarai/Desktop/myApp/obj/Debug/net5.0/myApp.dll
+/Users/nakarai/Desktop/myApp/obj/Debug/net5.0/ref/myApp.dll
+/Users/nakarai/Desktop/myApp/obj/Debug/net5.0/myApp.pdb
+/Users/nakarai/Desktop/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache
